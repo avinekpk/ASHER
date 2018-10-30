@@ -1,4 +1,4 @@
-# ASHER
+# ASHER Seriouslty???
 n=int(input("Enter number: "))
 if(n>0):
     print("Number is positive")
